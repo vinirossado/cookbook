@@ -1,0 +1,154 @@
+{
+  "RecipeListPage": {
+    "header": {
+      "title": "Delícia Culinária",
+      "nav": {
+        "home": "Início",
+        "categories": "Categorias",
+        "popular": "Populares",
+        "about": "Sobre"
+      }
+    },
+    "hero": {
+      "title": "Descubra Receitas Deliciosas",
+      "subtitle": "Encontre e compartilhe as melhores receitas do mundo todo",
+      "searchPlaceholder": "Buscar receitas..."
+    },
+    "search": {
+      "placeholder": "Buscar receitas...",
+      "button": "Pesquisar"
+    },
+    "categories": {
+      "title": "Categorias Populares",
+      "viewAll": "Ver Tudo",
+      "all": "Todas as Categorias",
+      "items": {
+        "breakfast": "Café da Manhã",
+        "lunch": "Almoço",
+        "dinner": "Jantar",
+        "desserts": "Sobremesas",
+        "vegetarian": "Vegetariano",
+        "seafood": "Frutos do Mar"
+      }
+    },
+    "recipes": {
+      "title": "Últimas Receitas",
+      "filter": "Filtrar",
+      "sort": {
+        "latest": "Mais Recentes",
+        "popular": "Mais Populares",
+        "trending": "Tendências"
+      },
+      "loadMore": "Carregar Mais Receitas",
+      "viewAll": "Ver Todas as Receitas",
+      "prepTime": "Tempo de Preparo",
+      "cookTime": "Tempo de Cozimento",
+      "difficulty": "Dificuldade",
+      "rating": "Avaliação",
+      "author": "Autor"
+    },
+    "footer": {
+      "title": "Delícia Culinária",
+      "description": "Descubra e compartilhe as melhores receitas do mundo todo.",
+      "explore": {
+        "title": "Explorar",
+        "categories": "Categorias",
+        "popularRecipes": "Receitas Populares",
+        "chefs": "Chefs",
+        "seasonal": "Sazonal"
+      },
+      "company": {
+        "title": "Empresa",
+        "aboutUs": "Sobre Nós",
+        "contact": "Contato",
+        "careers": "Carreiras",
+        "privacyPolicy": "Política de Privacidade"
+      },
+      "subscribe": {
+        "title": "Assine",
+        "description": "Receba receitas e dicas de culinária semanalmente.",
+        "placeholder": "Seu Email",
+        "button": "Assinar"
+      },
+      "copyright": "© {year} Delícia Culinária. Todos os direitos reservados."
+    }
+  },
+  "RecipeDetailPage": {
+    "header": {
+      "title": "Delícia Culinária",
+      "nav": {
+        "home": "Início",
+        "categories": "Categorias",
+        "popular": "Populares",
+        "about": "Sobre"
+      }
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "dinner": "Jantar"
+    },
+    "recipe": {
+      "save": "Salvar Receita",
+      "print": "Imprimir Receita",
+      "share": "Compartilhar Receita",
+      "serving": "Porções",
+      "ingredients": "Ingredientes",
+      "instructions": "Instruções",
+      "notes": "Notas",
+      "nutrition": "Nutrição",
+      "comments": "Comentários",
+      "loadMoreComments": "Carregar Mais Comentários"
+    },
+    "nutrition": {
+      "calories": "Calorias",
+      "protein": "Proteína",
+      "carbs": "Carboidratos",
+      "fat": "Gordura"
+    },
+    "sidebar": {
+      "chef": {
+        "title": "Chefs e Blogs",
+        "viewAll": "Ver Todas as Receitas"
+      },
+      "related": {
+        "title": "Você Também Pode Gostar"
+      },
+      "subscribe": {
+        "title": "Assine Receitas Semanais",
+        "description": "Receba novas receitas na sua caixa de entrada toda semana!",
+        "placeholder": "Seu Email",
+        "button": "Assinar"
+      }
+    },
+    "footer": {
+      "title": "Delícia Culinária",
+      "description": "Descubra e compartilhe as melhores receitas do mundo todo.",
+      "explore": {
+        "title": "Explorar",
+        "categories": "Categorias",
+        "popularRecipes": "Receitas Populares",
+        "chefs": "Chefs",
+        "seasonal": "Sazonal"
+      },
+      "company": {
+        "title": "Empresa",
+        "aboutUs": "Sobre Nós",
+        "contact": "Contato",
+        "careers": "Carreiras",
+        "privacyPolicy": "Política de Privacidade"
+      },
+      "subscribe": {
+        "title": "Assine",
+        "description": "Receba receitas e dicas de culinária semanalmente.",
+        "placeholder": "Seu Email",
+        "button": "Assinar"
+      },
+      "copyright": "© {year} Delícia Culinária. Todos os direitos reservados."
+    }
+  },
+  "RecipeCard": {
+    "saveRecipe": "Salvar receita",
+    "totalTime": "{prep} + {cook}",
+    "byAuthor": "Por {author}"
+  }
+}

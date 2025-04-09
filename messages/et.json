@@ -1,0 +1,154 @@
+{
+  "RecipeListPage": {
+    "header": {
+      "title": "Kulinaarne Rõõm",
+      "nav": {
+        "home": "Kodu",
+        "categories": "Kategooriad",
+        "popular": "Populaarne",
+        "about": "Meist"
+      }
+    },
+    "hero": {
+      "title": "Avasta maitsvaid retsepte",
+      "subtitle": "Leia ja jaga parimaid retsepte üle kogu maailma",
+      "searchPlaceholder": "Otsi retsepte..."
+    },
+    "search": {
+      "placeholder": "Otsi retsepte...",
+      "button": "Otsi"
+    },
+    "categories": {
+      "title": "Populaarsed kategooriad",
+      "viewAll": "Vaata kõiki",
+      "all": "Kõik kategooriad",
+      "items": {
+        "breakfast": "Hommikusöök",
+        "lunch": "Lõunasöök",
+        "dinner": "Õhtusöök",
+        "desserts": "Magustoidud",
+        "vegetarian": "Taimetoit",
+        "seafood": "Mereannid"
+      }
+    },
+    "recipes": {
+      "title": "Viimased retseptid",
+      "filter": "Filtreeri",
+      "sort": {
+        "latest": "Viimased",
+        "popular": "Kõige populaarsemad",
+        "trending": "Trendikas"
+      },
+      "loadMore": "Laadi rohkem retsepte",
+      "viewAll": "Vaata kõiki retsepte",
+      "prepTime": "Ettevalmistusaeg",
+      "cookTime": "Küpsetusaeg",
+      "difficulty": "Raskusaste",
+      "rating": "Hinnang",
+      "author": "Autor"
+    },
+    "footer": {
+      "title": "Kulinaarne Rõõm",
+      "description": "Avasta ja jaga parimaid retsepte üle kogu maailma.",
+      "explore": {
+        "title": "Avasta",
+        "categories": "Kategooriad",
+        "popularRecipes": "Populaarsed retseptid",
+        "chefs": "Kokad",
+        "seasonal": "Hooajaline"
+      },
+      "company": {
+        "title": "Ettevõte",
+        "aboutUs": "Meist",
+        "contact": "Kontakt",
+        "careers": "Karjäär",
+        "privacyPolicy": "Privaatsuspoliitika"
+      },
+      "subscribe": {
+        "title": "Telli",
+        "description": "Saa iganädalased retseptid ja toiduvalmistamise näpunäited.",
+        "placeholder": "Sinu e-post",
+        "button": "Telli"
+      },
+      "copyright": "© {year} Kulinaarne Rõõm. Kõik õigused kaitstud."
+    }
+  },
+  "RecipeDetailPage": {
+    "header": {
+      "title": "Kulinaarne Rõõm",
+      "nav": {
+        "home": "Kodu",
+        "categories": "Kategooriad",
+        "popular": "Populaarne",
+        "about": "Meist"
+      }
+    },
+    "breadcrumb": {
+      "home": "Kodu",
+      "dinner": "Õhtusöök"
+    },
+    "recipe": {
+      "save": "Salvesta retsept",
+      "print": "Prindi retsept",
+      "share": "Jaga retsepti",
+      "serving": "Portsjonid",
+      "ingredients": "Koostisosad",
+      "instructions": "Juhised",
+      "notes": "Märkmed",
+      "nutrition": "Toitumine",
+      "comments": "Kommentaarid",
+      "loadMoreComments": "Laadi rohkem kommentaare"
+    },
+    "nutrition": {
+      "calories": "Kalorid",
+      "protein": "Valgud",
+      "carbs": "Süsivesikud",
+      "fat": "Rasv"
+    },
+    "sidebar": {
+      "chef": {
+        "title": "Kokad ja blogid",
+        "viewAll": "Vaata kõiki retsepte"
+      },
+      "related": {
+        "title": "Sulle võib ka meeldida"
+      },
+      "subscribe": {
+        "title": "Telli iganädalased retseptid",
+        "description": "Saa iga nädal uued retseptid oma postkasti!",
+        "placeholder": "Sinu e-post",
+        "button": "Telli"
+      }
+    },
+    "footer": {
+      "title": "Kulinaarne Rõõm",
+      "description": "Avasta ja jaga parimaid retsepte üle kogu maailma.",
+      "explore": {
+        "title": "Avasta",
+        "categories": "Kategooriad",
+        "popularRecipes": "Populaarsed retseptid",
+        "chefs": "Kokad",
+        "seasonal": "Hooajaline"
+      },
+      "company": {
+        "title": "Ettevõte",
+        "aboutUs": "Meist",
+        "contact": "Kontakt",
+        "careers": "Karjäär",
+        "privacyPolicy": "Privaatsuspoliitika"
+      },
+      "subscribe": {
+        "title": "Telli",
+        "description": "Saa iganädalased retseptid ja toiduvalmistamise näpunäited.",
+        "placeholder": "Sinu e-post",
+        "button": "Telli"
+      },
+      "copyright": "© {year} Kulinaarne Rõõm. Kõik õigused kaitstud."
+    }
+  },
+  "RecipeCard": {
+    "saveRecipe": "Salvesta retsept",
+    "totalTime": "{prep} + {cook}",
+    "byAuthor": "Autorilt {author}"
+  }
+}

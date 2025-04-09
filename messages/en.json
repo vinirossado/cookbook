@@ -1,0 +1,154 @@
+{
+  "RecipeListPage": {
+    "header": {
+      "title": "CulinaryDelight",
+      "nav": {
+        "home": "Home",
+        "categories": "Categories",
+        "popular": "Popular",
+        "about": "About"
+      }
+    },
+    "hero": {
+      "title": "Discover Delicious Recipes",
+      "subtitle": "Find and share the best recipes from around the world",
+      "searchPlaceholder": "Search for recipes..."
+    },
+    "search": {
+      "placeholder": "Search recipes...",
+      "button": "Search"
+    },
+    "categories": {
+      "title": "Popular Categories",
+      "viewAll": "View All",
+      "all": "All Categories",
+      "items": {
+        "breakfast": "Breakfast",
+        "lunch": "Lunch",
+        "dinner": "Dinner",
+        "desserts": "Desserts",
+        "vegetarian": "Vegetarian",
+        "seafood": "Seafood"
+      }
+    },
+    "recipes": {
+      "title": "Latest Recipes",
+      "filter": "Filter",
+      "sort": {
+        "latest": "Latest",
+        "popular": "Most Popular",
+        "trending": "Trending"
+      },
+      "loadMore": "Load More Recipes",
+      "viewAll": "View All Recipes",
+      "prepTime": "Prep Time",
+      "cookTime": "Cook Time",
+      "difficulty": "Difficulty",
+      "rating": "Rating",
+      "author": "Author"
+    },
+    "footer": {
+      "title": "CulinaryDelight",
+      "description": "Discover and share the best recipes from around the world.",
+      "explore": {
+        "title": "Explore",
+        "categories": "Categories",
+        "popularRecipes": "Popular Recipes",
+        "chefs": "Chefs",
+        "seasonal": "Seasonal"
+      },
+      "company": {
+        "title": "Company",
+        "aboutUs": "About Us",
+        "contact": "Contact",
+        "careers": "Careers",
+        "privacyPolicy": "Privacy Policy"
+      },
+      "subscribe": {
+        "title": "Subscribe",
+        "description": "Get weekly recipes and cooking tips.",
+        "placeholder": "Your Email",
+        "button": "Subscribe"
+      },
+      "copyright": "© {year} CulinaryDelight. All rights reserved."
+    }
+  },
+  "RecipeDetailPage": {
+    "header": {
+      "title": "CulinaryDelight",
+      "nav": {
+        "home": "Home",
+        "categories": "Categories",
+        "popular": "Popular",
+        "about": "About"
+      }
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "dinner": "Dinner"
+    },
+    "recipe": {
+      "save": "Save recipe",
+      "print": "Print recipe",
+      "share": "Share recipe",
+      "serving": "Servings",
+      "ingredients": "Ingredients",
+      "instructions": "Instructions",
+      "notes": "Notes",
+      "nutrition": "Nutrition Information",
+      "comments": "Comments",
+      "loadMoreComments": "Load more comments"
+    },
+    "nutrition": {
+      "calories": "Calories",
+      "protein": "Protein",
+      "carbs": "Carbs",
+      "fat": "Fat"
+    },
+    "sidebar": {
+      "chef": {
+        "title": "Executive Chef",
+        "viewAll": "View all recipes"
+      },
+      "related": {
+        "title": "Related Recipes"
+      },
+      "subscribe": {
+        "title": "Subscribe",
+        "description": "Get our best recipes delivered to your inbox",
+        "placeholder": "Your email",
+        "button": "Subscribe"
+      }
+    },
+    "footer": {
+      "title": "CulinaryDelight",
+      "description": "Discover the joy of cooking with our carefully selected recipes",
+      "explore": {
+        "title": "Explore",
+        "categories": "Categories",
+        "popularRecipes": "Popular Recipes",
+        "chefs": "Chefs",
+        "seasonal": "Seasonal Recipes"
+      },
+      "company": {
+        "title": "Company",
+        "aboutUs": "About Us",
+        "contact": "Contact",
+        "careers": "Careers",
+        "privacyPolicy": "Privacy Policy"
+      },
+      "subscribe": {
+        "title": "Subscribe",
+        "description": "Get our best recipes delivered to your inbox",
+        "placeholder": "Your email",
+        "button": "Subscribe"
+      },
+      "copyright": "© {year} CulinaryDelight. All rights reserved."
+    }
+  },
+  "RecipeCard": {
+    "saveRecipe": "Save recipe",
+    "totalTime": "{prep} + {cook}",
+    "byAuthor": "By {author}"
+  }
+}

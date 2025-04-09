@@ -1,0 +1,154 @@
+{
+  "RecipeListPage": {
+    "header": {
+      "title": "CulinaryDelight",
+      "nav": {
+        "home": "Início",
+        "categories": "Categorias",
+        "popular": "Popular",
+        "about": "Sobre"
+      }
+    },
+    "hero": {
+      "title": "Descubra Receitas Deliciosas",
+      "subtitle": "Encontre e compartilhe as melhores receitas do mundo",
+      "searchPlaceholder": "Pesquisar receitas..."
+    },
+    "search": {
+      "placeholder": "Pesquisar receitas...",
+      "button": "Pesquisar"
+    },
+    "categories": {
+      "title": "Categorias Populares",
+      "viewAll": "Ver Todas",
+      "all": "Todas as Categorias",
+      "items": {
+        "breakfast": "Café da Manhã",
+        "lunch": "Almoço",
+        "dinner": "Jantar",
+        "desserts": "Sobremesas",
+        "vegetarian": "Vegetariano",
+        "seafood": "Frutos do Mar"
+      }
+    },
+    "recipes": {
+      "title": "Últimas Receitas",
+      "filter": "Filtrar",
+      "sort": {
+        "latest": "Mais Recentes",
+        "popular": "Mais Populares",
+        "trending": "Em Alta"
+      },
+      "loadMore": "Carregar Mais Receitas",
+      "viewAll": "Ver Todas as Receitas",
+      "prepTime": "Tempo de Preparo",
+      "cookTime": "Tempo de Cozimento",
+      "difficulty": "Dificuldade",
+      "rating": "Avaliação",
+      "author": "Autor"
+    },
+    "footer": {
+      "title": "CulinaryDelight",
+      "description": "Descubra e compartilhe as melhores receitas do mundo.",
+      "explore": {
+        "title": "Explorar",
+        "categories": "Categorias",
+        "popularRecipes": "Receitas Populares",
+        "chefs": "Chefs",
+        "seasonal": "Sazonal"
+      },
+      "company": {
+        "title": "Empresa",
+        "aboutUs": "Sobre Nós",
+        "contact": "Contato",
+        "careers": "Carreiras",
+        "privacyPolicy": "Política de Privacidade"
+      },
+      "subscribe": {
+        "title": "Inscrever-se",
+        "description": "Receba receitas e dicas de culinária semanalmente.",
+        "placeholder": "Seu Email",
+        "button": "Inscrever-se"
+      },
+      "copyright": "© {year} CulinaryDelight. Todos os direitos reservados."
+    }
+  },
+  "RecipeDetailPage": {
+    "header": {
+      "title": "CulinaryDelight",
+      "nav": {
+        "home": "Início",
+        "categories": "Categorias",
+        "popular": "Populares",
+        "about": "Sobre"
+      }
+    },
+    "breadcrumb": {
+      "home": "Início",
+      "dinner": "Jantar"
+    },
+    "recipe": {
+      "save": "Salvar receita",
+      "print": "Imprimir receita",
+      "share": "Compartilhar receita",
+      "serving": "Porções",
+      "ingredients": "Ingredientes",
+      "instructions": "Instruções",
+      "notes": "Notas",
+      "nutrition": "Informação Nutricional",
+      "comments": "Comentários",
+      "loadMoreComments": "Carregar mais comentários"
+    },
+    "nutrition": {
+      "calories": "Calorias",
+      "protein": "Proteína",
+      "carbs": "Carboidratos",
+      "fat": "Gorduras"
+    },
+    "sidebar": {
+      "chef": {
+        "title": "Chef Executivo",
+        "viewAll": "Ver todas as receitas"
+      },
+      "related": {
+        "title": "Receitas Relacionadas"
+      },
+      "subscribe": {
+        "title": "Inscreva-se",
+        "description": "Receba nossas melhores receitas diretamente no seu email",
+        "placeholder": "Seu email",
+        "button": "Inscrever"
+      }
+    },
+    "footer": {
+      "title": "CulinaryDelight",
+      "description": "Descubra o prazer da culinária com nossas receitas cuidadosamente selecionadas",
+      "explore": {
+        "title": "Explorar",
+        "categories": "Categorias",
+        "popularRecipes": "Receitas Populares",
+        "chefs": "Chefs",
+        "seasonal": "Receitas Sazonais"
+      },
+      "company": {
+        "title": "Empresa",
+        "aboutUs": "Sobre Nós",
+        "contact": "Contato",
+        "careers": "Carreiras",
+        "privacyPolicy": "Política de Privacidade"
+      },
+      "subscribe": {
+        "title": "Inscreva-se",
+        "description": "Receba nossas melhores receitas diretamente no seu email",
+        "placeholder": "Seu email",
+        "button": "Inscrever"
+      },
+      "copyright": "© {year} CulinaryDelight. Todos os direitos reservados."
+    }
+  },
+  "RecipeCard": {
+    "saveRecipe": "Salvar receita",
+    "totalTime": "{prep} + {cook}",
+    "byAuthor": "Por {author}"
+  }
+}

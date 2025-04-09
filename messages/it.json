@@ -1,0 +1,154 @@
+{
+  "RecipeListPage": {
+    "header": {
+      "title": "Delizia Culinaria",
+      "nav": {
+        "home": "Home",
+        "categories": "Categorie",
+        "popular": "Popolari",
+        "about": "Chi siamo"
+      }
+    },
+    "hero": {
+      "title": "Scopri ricette deliziose",
+      "subtitle": "Trova e condividi le migliori ricette da tutto il mondo",
+      "searchPlaceholder": "Cerca ricette..."
+    },
+    "search": {
+      "placeholder": "Cerca ricette...",
+      "button": "Cerca"
+    },
+    "categories": {
+      "title": "Categorie popolari",
+      "viewAll": "Vedi tutto",
+      "all": "Tutte le categorie",
+      "items": {
+        "breakfast": "Colazione",
+        "lunch": "Pranzo",
+        "dinner": "Cena",
+        "desserts": "Dolci",
+        "vegetarian": "Vegetariano",
+        "seafood": "Frutti di mare"
+      }
+    },
+    "recipes": {
+      "title": "Ultime ricette",
+      "filter": "Filtra",
+      "sort": {
+        "latest": "Ultime",
+        "popular": "Più popolari",
+        "trending": "Di tendenza"
+      },
+      "loadMore": "Carica altre ricette",
+      "viewAll": "Vedi tutte le ricette",
+      "prepTime": "Tempo di preparazione",
+      "cookTime": "Tempo di cottura",
+      "difficulty": "Difficoltà",
+      "rating": "Valutazione",
+      "author": "Autore"
+    },
+    "footer": {
+      "title": "Delizia Culinaria",
+      "description": "Scopri e condividi le migliori ricette da tutto il mondo.",
+      "explore": {
+        "title": "Esplora",
+        "categories": "Categorie",
+        "popularRecipes": "Ricette popolari",
+        "chefs": "Chef",
+        "seasonal": "Stagionale"
+      },
+      "company": {
+        "title": "Azienda",
+        "aboutUs": "Chi siamo",
+        "contact": "Contatti",
+        "careers": "Carriere",
+        "privacyPolicy": "Informativa sulla privacy"
+      },
+      "subscribe": {
+        "title": "Iscriviti",
+        "description": "Ricevi ricette e consigli di cucina settimanali.",
+        "placeholder": "La tua email",
+        "button": "Iscriviti"
+      },
+      "copyright": "© {year} Delizia Culinaria. Tutti i diritti riservati."
+    }
+  },
+  "RecipeDetailPage": {
+    "header": {
+      "title": "Delizia Culinaria",
+      "nav": {
+        "home": "Home",
+        "categories": "Categorie",
+        "popular": "Popolari",
+        "about": "Chi siamo"
+      }
+    },
+    "breadcrumb": {
+      "home": "Home",
+      "dinner": "Cena"
+    },
+    "recipe": {
+      "save": "Salva ricetta",
+      "print": "Stampa ricetta",
+      "share": "Condividi ricetta",
+      "serving": "Porzioni",
+      "ingredients": "Ingredienti",
+      "instructions": "Istruzioni",
+      "notes": "Note",
+      "nutrition": "Nutrizione",
+      "comments": "Commenti",
+      "loadMoreComments": "Carica altri commenti"
+    },
+    "nutrition": {
+      "calories": "Calorie",
+      "protein": "Proteine",
+      "carbs": "Carboidrati",
+      "fat": "Grassi"
+    },
+    "sidebar": {
+      "chef": {
+        "title": "Chef e blog",
+        "viewAll": "Vedi tutte le ricette"
+      },
+      "related": {
+        "title": "Potrebbe piacerti anche"
+      },
+      "subscribe": {
+        "title": "Iscriviti alle ricette settimanali",
+        "description": "Ricevi nuove ricette nella tua casella di posta ogni settimana!",
+        "placeholder": "La tua email",
+        "button": "Iscriviti"
+      }
+    },
+    "footer": {
+      "title": "Delizia Culinaria",
+      "description": "Scopri e condividi le migliori ricette da tutto il mondo.",
+      "explore": {
+        "title": "Esplora",
+        "categories": "Categorie",
+        "popularRecipes": "Ricette popolari",
+        "chefs": "Chef",
+        "seasonal": "Stagionale"
+      },
+      "company": {
+        "title": "Azienda",
+        "aboutUs": "Chi siamo",
+        "contact": "Contatti",
+        "careers": "Carriere",
+        "privacyPolicy": "Informativa sulla privacy"
+      },
+      "subscribe": {
+        "title": "Iscriviti",
+        "description": "Ricevi ricette e consigli di cucina settimanali.",
+        "placeholder": "La tua email",
+        "button": "Iscriviti"
+      },
+      "copyright": "© {year} Delizia Culinaria. Tutti i diritti riservati."
+    }
+  },
+  "RecipeCard": {
+    "saveRecipe": "Salva ricetta",
+    "totalTime": "{prep} + {cook}",
+    "byAuthor": "Di {author}"
+  }
+}

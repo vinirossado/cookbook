@@ -1,0 +1,154 @@
+{
+  "RecipeListPage": {
+    "header": {
+      "title": "Kulinarische Freude",
+      "nav": {
+        "home": "Startseite",
+        "categories": "Kategorien",
+        "popular": "Beliebt",
+        "about": "Über uns"
+      }
+    },
+    "hero": {
+      "title": "Entdecken Sie köstliche Rezepte",
+      "subtitle": "Finden und teilen Sie die besten Rezepte aus aller Welt",
+      "searchPlaceholder": "Nach Rezepten suchen..."
+    },
+    "search": {
+      "placeholder": "Rezepte suchen...",
+      "button": "Suchen"
+    },
+    "categories": {
+      "title": "Beliebte Kategorien",
+      "viewAll": "Alle anzeigen",
+      "all": "Alle Kategorien",
+      "items": {
+        "breakfast": "Frühstück",
+        "lunch": "Mittagessen",
+        "dinner": "Abendessen",
+        "desserts": "Desserts",
+        "vegetarian": "Vegetarisch",
+        "seafood": "Meeresfrüchte"
+      }
+    },
+    "recipes": {
+      "title": "Neueste Rezepte",
+      "filter": "Filtern",
+      "sort": {
+        "latest": "Neueste",
+        "popular": "Am beliebtesten",
+        "trending": "Im Trend"
+      },
+      "loadMore": "Weitere Rezepte laden",
+      "viewAll": "Alle Rezepte anzeigen",
+      "prepTime": "Vorbereitungszeit",
+      "cookTime": "Kochzeit",
+      "difficulty": "Schwierigkeit",
+      "rating": "Bewertung",
+      "author": "Autor"
+    },
+    "footer": {
+      "title": "Kulinarische Freude",
+      "description": "Entdecken und teilen Sie die besten Rezepte aus aller Welt.",
+      "explore": {
+        "title": "Entdecken",
+        "categories": "Kategorien",
+        "popularRecipes": "Beliebte Rezepte",
+        "chefs": "Köche",
+        "seasonal": "Saisonales"
+      },
+      "company": {
+        "title": "Unternehmen",
+        "aboutUs": "Über uns",
+        "contact": "Kontakt",
+        "careers": "Karriere",
+        "privacyPolicy": "Datenschutzrichtlinie"
+      },
+      "subscribe": {
+        "title": "Abonnieren",
+        "description": "Erhalten Sie wöchentlich Rezepte und Kochtipps.",
+        "placeholder": "Ihre E-Mail",
+        "button": "Abonnieren"
+      },
+      "copyright": "© {year} Kulinarische Freude. Alle Rechte vorbehalten."
+    }
+  },
+  "RecipeDetailPage": {
+    "header": {
+      "title": "Kulinarische Freude",
+      "nav": {
+        "home": "Startseite",
+        "categories": "Kategorien",
+        "popular": "Beliebt",
+        "about": "Über uns"
+      }
+    },
+    "breadcrumb": {
+      "home": "Startseite",
+      "dinner": "Abendessen"
+    },
+    "recipe": {
+      "save": "Rezept speichern",
+      "print": "Rezept drucken",
+      "share": "Rezept teilen",
+      "serving": "Portionen",
+      "ingredients": "Zutaten",
+      "instructions": "Anweisungen",
+      "notes": "Notizen",
+      "nutrition": "Nährwerte",
+      "comments": "Kommentare",
+      "loadMoreComments": "Weitere Kommentare laden"
+    },
+    "nutrition": {
+      "calories": "Kalorien",
+      "protein": "Protein",
+      "carbs": "Kohlenhydrate",
+      "fat": "Fett"
+    },
+    "sidebar": {
+      "chef": {
+        "title": "Köche & Blogs",
+        "viewAll": "Alle Rezepte anzeigen"
+      },
+      "related": {
+        "title": "Das könnte Ihnen auch gefallen"
+      },
+      "subscribe": {
+        "title": "Abonnieren Sie wöchentliche Rezepte",
+        "description": "Lassen Sie sich jede Woche neue Rezepte in Ihren Posteingang liefern!",
+        "placeholder": "Ihre E-Mail",
+        "button": "Abonnieren"
+      }
+    },
+    "footer": {
+      "title": "Kulinarische Freude",
+      "description": "Entdecken und teilen Sie die besten Rezepte aus aller Welt.",
+      "explore": {
+        "title": "Entdecken",
+        "categories": "Kategorien",
+        "popularRecipes": "Beliebte Rezepte",
+        "chefs": "Köche",
+        "seasonal": "Saisonales"
+      },
+      "company": {
+        "title": "Unternehmen",
+        "aboutUs": "Über uns",
+        "contact": "Kontakt",
+        "careers": "Karriere",
+        "privacyPolicy": "Datenschutzrichtlinie"
+      },
+      "subscribe": {
+        "title": "Abonnieren",
+        "description": "Erhalten Sie wöchentlich Rezepte und Kochtipps.",
+        "placeholder": "Ihre E-Mail",
+        "button": "Abonnieren"
+      },
+      "copyright": "© {year} Kulinarische Freude. Alle Rechte vorbehalten."
+    }
+  },
+  "RecipeCard": {
+    "saveRecipe": "Rezept speichern",
+    "totalTime": "{prep} + {cook}",
+    "byAuthor": "Von {author}"
+  }
+}

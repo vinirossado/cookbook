@@ -1,0 +1,154 @@
+{
+  "RecipeListPage": {
+    "header": {
+      "title": "Délice Culinaire",
+      "nav": {
+        "home": "Accueil",
+        "categories": "Catégories",
+        "popular": "Populaire",
+        "about": "À propos"
+      }
+    },
+    "hero": {
+      "title": "Découvrez des recettes délicieuses",
+      "subtitle": "Trouvez et partagez les meilleures recettes du monde entier",
+      "searchPlaceholder": "Rechercher des recettes..."
+    },
+    "search": {
+      "placeholder": "Rechercher des recettes...",
+      "button": "Rechercher"
+    },
+    "categories": {
+      "title": "Catégories populaires",
+      "viewAll": "Voir tout",
+      "all": "Toutes les catégories",
+      "items": {
+        "breakfast": "Petit-déjeuner",
+        "lunch": "Déjeuner",
+        "dinner": "Dîner",
+        "desserts": "Desserts",
+        "vegetarian": "Végétarien",
+        "seafood": "Fruits de mer"
+      }
+    },
+    "recipes": {
+      "title": "Dernières recettes",
+      "filter": "Filtrer",
+      "sort": {
+        "latest": "Dernières",
+        "popular": "Les plus populaires",
+        "trending": "Tendances"
+      },
+      "loadMore": "Charger plus de recettes",
+      "viewAll": "Voir toutes les recettes",
+      "prepTime": "Temps de préparation",
+      "cookTime": "Temps de cuisson",
+      "difficulty": "Difficulté",
+      "rating": "Note",
+      "author": "Auteur"
+    },
+    "footer": {
+      "title": "Délice Culinaire",
+      "description": "Découvrez et partagez les meilleures recettes du monde entier.",
+      "explore": {
+        "title": "Explorer",
+        "categories": "Catégories",
+        "popularRecipes": "Recettes populaires",
+        "chefs": "Chefs",
+        "seasonal": "Saisonnier"
+      },
+      "company": {
+        "title": "Entreprise",
+        "aboutUs": "À propos de nous",
+        "contact": "Contact",
+        "careers": "Carrières",
+        "privacyPolicy": "Politique de confidentialité"
+      },
+      "subscribe": {
+        "title": "S'abonner",
+        "description": "Recevez des recettes et des astuces culinaires chaque semaine.",
+        "placeholder": "Votre email",
+        "button": "S'abonner"
+      },
+      "copyright": "© {year} Délice Culinaire. Tous droits réservés."
+    }
+  },
+  "RecipeDetailPage": {
+    "header": {
+      "title": "Délice Culinaire",
+      "nav": {
+        "home": "Accueil",
+        "categories": "Catégories",
+        "popular": "Populaire",
+        "about": "À propos"
+      }
+    },
+    "breadcrumb": {
+      "home": "Accueil",
+      "dinner": "Dîner"
+    },
+    "recipe": {
+      "save": "Enregistrer la recette",
+      "print": "Imprimer la recette",
+      "share": "Partager la recette",
+      "serving": "Portions",
+      "ingredients": "Ingrédients",
+      "instructions": "Instructions",
+      "notes": "Notes",
+      "nutrition": "Nutrition",
+      "comments": "Commentaires",
+      "loadMoreComments": "Charger plus de commentaires"
+    },
+    "nutrition": {
+      "calories": "Calories",
+      "protein": "Protéines",
+      "carbs": "Glucides",
+      "fat": "Lipides"
+    },
+    "sidebar": {
+      "chef": {
+        "title": "Chefs et blogs",
+        "viewAll": "Voir toutes les recettes"
+      },
+      "related": {
+        "title": "Vous aimerez peut-être aussi"
+      },
+      "subscribe": {
+        "title": "Abonnez-vous aux recettes hebdomadaires",
+        "description": "Recevez de nouvelles recettes dans votre boîte de réception chaque semaine !",
+        "placeholder": "Votre email",
+        "button": "S'abonner"
+      }
+    },
+    "footer": {
+      "title": "Délice Culinaire",
+      "description": "Découvrez et partagez les meilleures recettes du monde entier.",
+      "explore": {
+        "title": "Explorer",
+        "categories": "Catégories",
+        "popularRecipes": "Recettes populaires",
+        "chefs": "Chefs",
+        "seasonal": "Saisonnier"
+      },
+      "company": {
+        "title": "Entreprise",
+        "aboutUs": "À propos de nous",
+        "contact": "Contact",
+        "careers": "Carrières",
+        "privacyPolicy": "Politique de confidentialité"
+      },
+      "subscribe": {
+        "title": "S'abonner",
+        "description": "Recevez des recettes et des astuces culinaires chaque semaine.",
+        "placeholder": "Votre email",
+        "button": "S'abonner"
+      },
+      "copyright": "© {year} Délice Culinaire. Tous droits réservés."
+    }
+  },
+  "RecipeCard": {
+    "saveRecipe": "Enregistrer la recette",
+    "totalTime": "{prep} + {cook}",
+    "byAuthor": "Par {author}"
+  }
+}

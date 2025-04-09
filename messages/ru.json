@@ -1,0 +1,154 @@
+{
+  "RecipeListPage": {
+    "header": {
+      "title": "Кулинарный Восторг",
+      "nav": {
+        "home": "Главная",
+        "categories": "Категории",
+        "popular": "Популярное",
+        "about": "О нас"
+      }
+    },
+    "hero": {
+      "title": "Откройте вкусные рецепты",
+      "subtitle": "Находите и делитесь лучшими рецептами со всего мира",
+      "searchPlaceholder": "Поиск рецептов..."
+    },
+    "search": {
+      "placeholder": "Поиск рецептов...",
+      "button": "Поиск"
+    },
+    "categories": {
+      "title": "Популярные категории",
+      "viewAll": "Посмотреть все",
+      "all": "Все категории",
+      "items": {
+        "breakfast": "Завтрак",
+        "lunch": "Обед",
+        "dinner": "Ужин",
+        "desserts": "Десерты",
+        "vegetarian": "Вегетарианское",
+        "seafood": "Морепродукты"
+      }
+    },
+    "recipes": {
+      "title": "Последние рецепты",
+      "filter": "Фильтр",
+      "sort": {
+        "latest": "Последние",
+        "popular": "Самые популярные",
+        "trending": "В тренде"
+      },
+      "loadMore": "Загрузить еще рецепты",
+      "viewAll": "Посмотреть все рецепты",
+      "prepTime": "Время подготовки",
+      "cookTime": "Время приготовления",
+      "difficulty": "Сложность",
+      "rating": "Рейтинг",
+      "author": "Автор"
+    },
+    "footer": {
+      "title": "Кулинарный Восторг",
+      "description": "Откройте и делитесь лучшими рецептами со всего мира.",
+      "explore": {
+        "title": "Исследовать",
+        "categories": "Категории",
+        "popularRecipes": "Популярные рецепты",
+        "chefs": "Шеф-повара",
+        "seasonal": "Сезонное"
+      },
+      "company": {
+        "title": "Компания",
+        "aboutUs": "О нас",
+        "contact": "Контакты",
+        "careers": "Карьера",
+        "privacyPolicy": "Политика конфиденциальности"
+      },
+      "subscribe": {
+        "title": "Подписаться",
+        "description": "Получайте еженедельные рецепты и советы по приготовлению.",
+        "placeholder": "Ваш email",
+        "button": "Подписаться"
+      },
+      "copyright": "© {year} Кулинарный Восторг. Все права защищены."
+    }
+  },
+  "RecipeDetailPage": {
+    "header": {
+      "title": "Кулинарный Восторг",
+      "nav": {
+        "home": "Главная",
+        "categories": "Категории",
+        "popular": "Популярное",
+        "about": "О нас"
+      }
+    },
+    "breadcrumb": {
+      "home": "Главная",
+      "dinner": "Ужин"
+    },
+    "recipe": {
+      "save": "Сохранить рецепт",
+      "print": "Распечатать рецепт",
+      "share": "Поделиться рецептом",
+      "serving": "Порции",
+      "ingredients": "Ингредиенты",
+      "instructions": "Инструкции",
+      "notes": "Заметки",
+      "nutrition": "Питание",
+      "comments": "Комментарии",
+      "loadMoreComments": "Загрузить еще комментарии"
+    },
+    "nutrition": {
+      "calories": "Калории",
+      "protein": "Белки",
+      "carbs": "Углеводы",
+      "fat": "Жиры"
+    },
+    "sidebar": {
+      "chef": {
+        "title": "Шеф-повара и блоги",
+        "viewAll": "Посмотреть все рецепты"
+      },
+      "related": {
+        "title": "Вам также может понравиться"
+      },
+      "subscribe": {
+        "title": "Подпишитесь на еженедельные рецепты",
+        "description": "Получайте новые рецепты в ваш почтовый ящик каждую неделю!",
+        "placeholder": "Ваш email",
+        "button": "Подписаться"
+      }
+    },
+    "footer": {
+      "title": "Кулинарный Восторг",
+      "description": "Откройте и делитесь лучшими рецептами со всего мира.",
+      "explore": {
+        "title": "Исследовать",
+        "categories": "Категории",
+        "popularRecipes": "Популярные рецепты",
+        "chefs": "Шеф-повара",
+        "seasonal": "Сезонное"
+      },
+      "company": {
+        "title": "Компания",
+        "aboutUs": "О нас",
+        "contact": "Контакты",
+        "careers": "Карьера",
+        "privacyPolicy": "Политика конфиденциальности"
+      },
+      "subscribe": {
+        "title": "Подписаться",
+        "description": "Получайте еженедельные рецепты и советы по приготовлению.",
+        "placeholder": "Ваш email",
+        "button": "Подписаться"
+      },
+      "copyright": "© {year} Кулинарный Восторг. Все права защищены."
+    }
+  },
+  "RecipeCard": {
+    "saveRecipe": "Сохранить рецепт",
+    "totalTime": "{prep} + {cook}",
+    "byAuthor": "От {author}"
+  }
+}
